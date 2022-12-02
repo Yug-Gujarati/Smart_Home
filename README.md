@@ -1,3 +1,5 @@
+![Screenshot (97)](https://user-images.githubusercontent.com/89289757/205220795-076264fe-3578-4de8-851c-90b0b2ef55d0.png)
+
 # smart_home_app
 
 A new Flutter project.
